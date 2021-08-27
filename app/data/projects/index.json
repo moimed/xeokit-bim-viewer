@@ -51,6 +51,11 @@
     {
       "id": "RevitSamples",
       "name": "Revit Samples"
+    },
+    {
+      "id": "Facades,
+      "name": "Facades test"
     }
+    
   ]
 }
