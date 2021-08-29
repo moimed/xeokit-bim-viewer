@@ -1,10 +1,26 @@
 {
     "id": "Facades",
-    "name": "Facades",
+    "name": "Facades test",
     "models": [
         {
             "id": "design",
             "name": "Facades Design"
         }
     ],
+    "viewerConfigs": {
+        "backgroundColor": [
+            0.9,
+            0.9,
+            1.0
+        ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "structure",
+            "architectural"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "models"
+    }
 }
